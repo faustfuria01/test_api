@@ -32,10 +32,10 @@ flask run
 ## API Endpoints
 
 ### Get all projects
-GET /api/projects
+GET /projects
 
 ### Get project by ID
-GET /api/projects/<id>
+GET /projects/<id>
 
 ## Project data structure
 
