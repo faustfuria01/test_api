@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "BackstageIT",
+        "description": "Software Engineer",
+        "technologies": ["Python", "Flask", "SQLAlchemy", "Redis", "Docker", "Swagger", "Github Actions"],
+        "start_date": "2024-09-21",
+        "end_date": "2025-03-01"
+    },
+    {
+        "id": 2,
+        "name": "OTP Bank",
+        "description": "Machine Learning Engineer & Software Engineer",
+        "technologies": ["Python", "Flask", "TensorFlow", "SAS", "MSSQL"],
+        "start_date": "2023-08-01",
+        "end_date": "2024-09-01"
+    },
+    {
+        "id": 3,
+        "name": "Stefanini",
+        "description": "Software Engineer & Data Engineering",
+        "technologies": ["Python", "Scrapy", "Flask", "FastAPI", "Docker", "Selenium", "Azure"],
+        "start_date": "2019-06-01",
+        "end_date": "2023-08-01"
+    }
+]
