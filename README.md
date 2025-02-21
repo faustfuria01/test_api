@@ -8,7 +8,7 @@ REST API for managing portfolio projects on Flask.
 
 1. Clone the repository:
 git clone <url repository>
-cd portfolio-projects-api
+cd test_api
 
 2. Build and run the containers:
 docker-compose up --build
