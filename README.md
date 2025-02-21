@@ -35,7 +35,7 @@ flask run
 GET /projects
 
 ### Get project by ID
-GET /projects/<id>
+GET /projects/id
 
 ## Project data structure
 
